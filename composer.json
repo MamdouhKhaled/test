@@ -1,0 +1,15 @@
+{
+    "name": "mamdouh/test",
+    "autoload": {
+        "psr-4": {
+            "Mamdouh\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mamdouh Khaled",
+            "email": "Mamdouh.Khaled@live.com"
+        }
+    ],
+    "require": {}
+}
